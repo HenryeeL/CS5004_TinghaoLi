@@ -10,7 +10,7 @@ public class FractionImplTest {
   @Before
   public void setUp() {
     fractionPositive = new FractionImpl(3, 4); //
-    fractionNegative = new FractionImpl(-3, 4); // 负分数
+    fractionNegative = new FractionImpl(-3, 4); // negative
   }
 
   @Test
