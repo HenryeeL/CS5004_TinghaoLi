@@ -13,9 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Lab05/Lab05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab09/Lab09.iml" filepath="$PROJECT_DIR$/Lab09/Lab09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Lab10/Lab10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-common/sky-common1.iml" filepath="$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-common/sky-common1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-pojo/sky-pojo1.iml" filepath="$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-pojo/sky-pojo1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-server/sky-server1.iml" filepath="$PROJECT_DIR$/Final Project/final project/sky-take-out/sky-server/sky-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/sky-take-out/sky-server/src/main/main.iml" filepath="$PROJECT_DIR$/Final Project/sky-take-out/sky-server/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/sky-take-out/sky-common/sky-common.iml" filepath="$PROJECT_DIR$/Final Project/sky-take-out/sky-common/sky-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/sky-take-out/sky-pojo/sky-pojo.iml" filepath="$PROJECT_DIR$/Final Project/sky-take-out/sky-pojo/sky-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/sky-take-out/sky-server/src/test/test.iml" filepath="$PROJECT_DIR$/Final Project/sky-take-out/sky-server/src/test/test.iml" />
     </modules>
   </component>
 </project>
